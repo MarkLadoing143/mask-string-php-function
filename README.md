@@ -6,7 +6,7 @@ A demo running this file can be found at the link above.
 
 ## Description
 The PHP function in the file does the following:
-- A string parameter is passed to it. A hard-coded sample string has been included in the file to demonstate the format of said string.
+- A string parameter is passed to it. A hard-coded sample string has been included in the file to show the format of said string.
 - The function parses the string and masks sensitive data (ie. replaces it with a * symbol) based on preset fields such as “cardNumber”, “cardExpiry”, etc.
 - The function returns the parsed string in the same format that it was provided but with masked data.
 
