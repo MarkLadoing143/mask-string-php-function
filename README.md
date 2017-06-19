@@ -1,5 +1,5 @@
 # Mask String PHP Function
-Link: ???
+Link: http://maskstringphp.epizy.com/function.php
 
 Simple PHP Function File which takes in a string and masks any sensitive data by replacing it with a series of *'s.<br>
 A demo running this file can be found at the link above.
