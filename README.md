@@ -10,5 +10,5 @@ The PHP file does the following:
 - The function returns the parsed string in the same format that it was provided, but with masked data.
 
 ## Assumptions
-- The input data string is already properly formatted, with each piece of data placed on a new line.
-- The term "Sensitive Data" mainly refers to credit card data and thus are the only pieces of data that have been censored.
+- The input data string is already properly formatted, with each piece of data and its description placed on a new line.
+- The term "Sensitive Data" mainly refers to credit card data, and thus are the only pieces of data that have been censored, as the other pieces of data seem either common or are necessary for to the user.
