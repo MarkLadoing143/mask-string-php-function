@@ -1,7 +1,8 @@
 # Mask String PHP Function
 Link: ???
 
-Simple PHP Function File which takes in a string and masks any sensitive data by replacing it with a series of *'s.
+Simple PHP Function File which takes in a string and masks any sensitive data by replacing it with a series of *'s. 
+A demo running this file can be found at the link above.
 
 ## Description
 The PHP function in the file does the following:
